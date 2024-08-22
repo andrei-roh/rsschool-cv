@@ -34,7 +34,7 @@ I'm a motivated software engineer with experience in building web applications u
     target='_blank'
     rel='noopener noreferrer'
     >
-        By{' '}
+        By
         <Image
             src='/vercel.svg'
             alt='Vercel Logo'
